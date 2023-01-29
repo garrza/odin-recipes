@@ -1,0 +1,20 @@
+li {
+    color:transparent
+}
+
+.internal-link {
+    color:orange;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 70px;
+}
+
+.initial-title {
+    color: green;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100px;
+    text-align: center;
+}
+
+body .site{
+    background-color: black;
+}
